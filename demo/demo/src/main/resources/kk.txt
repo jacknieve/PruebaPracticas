@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<class>
+   <employee id = "393">
+      <name>dinkar</name>
+      <role>rogue</role>
+   </employee>
+   
+   <employee id = "493">
+      <name>Vaneet</name>
+      <role>warrior</role>
+   </employee>
+   
+   <employee id = "593">
+      <name>jasvir</name>
+      <role>druid</role>
+   </employee>
+</class>
